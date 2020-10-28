@@ -1,4 +1,4 @@
-Authurs: 
+Authors: 
 Emma Albertini (Collaborator), George Luan, and Gloria Zhang
 
 # Reference:
