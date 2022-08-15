@@ -1,6 +1,8 @@
 Authors: 
 Emma Albertini (Collaborator), George Luan (Lead), and Gloria Zhang
 
+To learn more about this project, watch this video https://www.youtube.com/watch?app=desktop&v=Kufx3qgGuQY or visit our website https://2020.igem.org/Team:Gaston_Day_School .
+
 # Reference:
 Fabiszewski, A., Umbanhowar, J., & Mitchell, C. (2010). Modeling landscape-scale pathogen spillover between domesticated and wild hosts: Asian soybean rust and kudzu. Ecological Applications, 20(2), 582-592. Retrieved June 27, 2020, from www.jstor.org/stable/27797829.
 
